@@ -7,5 +7,5 @@ npm run start
 ```
 
 ```
-curl localhost:3000
+curl localhost:8080
 ```
